@@ -1,6 +1,5 @@
 /*
-Maximum Product of Two Sequences Prob-
-lem
+Maximum Product of Two Sequences Problem
 Find the maximum dot product of two sequences
 of numbers.
 --------------------------------------------------------------------------------------------------------------------
@@ -18,7 +17,7 @@ tains a sequence of integers price1, . . . , pricen, the third one contains
 a sequence of integers clicks1, . . . , clicksn.
 Output format. Output the maximum value of (price1 · c1 + · · · + pricen · cn),
 where c(1), . . . , c(n) is a permutation of clicks(1), . . . , clicks(n).
-Constraints. 1 ≤ n ≤ 103; 0 ≤ price(i) , clicks(i) ≤ 105 for all 1 ≤ i ≤ n.
+Constraints. 1 ≤ n ≤ 10^3; 0 ≤ price(i) , clicks(i) ≤ 10^5 for all 1 ≤ i ≤ n.
 */
 
 #include<stdio.h>
