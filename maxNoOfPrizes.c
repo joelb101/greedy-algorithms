@@ -20,7 +20,7 @@ that n can be represented as the sum of k pairwise distinct positive in-
 tegers. In the second line, output k pairwise distinct positive integers
 that sum up to n (if there are multiple such representations, output
 any of them).
-Constraints. 1 ≤ n ≤ 109.
+Constraints. 1 ≤ n ≤ 10^9.
 */
 
 #include<stdio.h>
