@@ -22,7 +22,7 @@ integer coordinates of k points (separated by spaces) on the second
 line. You can output the points in any order. If there are multiple
 such sets of points, you can output any of them.
 --------------------------------------------------------------------------------------------------------------------
-Constraints. 1 ≤ n ≤ 100; 0 ≤ li ≤ ri ≤ 109 for all i.
+Constraints. 1 ≤ n ≤ 100; 0 ≤ li ≤ ri ≤ 10^9 for all i.
 
 */
 #include<stdio.h>
