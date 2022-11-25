@@ -55,16 +55,7 @@ int reverse(int p){
 	}
 	return s;
 }
-/*
-int Pow(double x,double y){
-	int s=1;
-	for(int i=1;i<=y;i++)
-	{
-		s=s*x;
-	}
-	return s;
-}
-*/
+
 int compare(const void *p, const void *q){
 	int x=*(int*)p;
 	int y=*(int*)q;
